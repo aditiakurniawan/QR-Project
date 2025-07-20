@@ -1,1 +1,11 @@
-/* Add styles here */
+.container {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+#qrcode {
+    margin-top: 20px;
+}
